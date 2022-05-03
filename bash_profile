@@ -2,6 +2,3 @@
 
 [[ -s ~/.profile ]] && source ~/.profile
 [[ -s ~/.bashrc ]] && source ~/.bashrc
-
-# Work environment: https://github.com/barsoom/bs
-[[ -s "$HOME/.bs/profile" ]] && source "$HOME/.bs/profile"
